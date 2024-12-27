@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-from enums.seat_status import SeatStatus
+from enums import SeatStatus
 from typing import Optional, List
 
 @dataclass
